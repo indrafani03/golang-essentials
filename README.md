@@ -4,6 +4,8 @@ Mempelajari pemrograman golang untuk pemula. Materi akan dibahas step by step da
 
 ## [Basic](golang-fundamental/basic.md)
 
+
+
 * Install golang
 * Hello world
 * Package, type, constanta, variable, function
